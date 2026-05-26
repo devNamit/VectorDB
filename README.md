@@ -1,5 +1,10 @@
 # VectorDB — Build a Vector Database from Scratch in C++
 
+## My Contribution
+Explored and ran this project locally on Windows with MSYS2 + Ollama setup.
+Tested RAG pipeline using personal notes for semantic Q&A.
+Fixed compilation issues with modern g++ (GCC 16.1.0) on Windows.
+
 A fully working **Vector Database** built from scratch in C++ with a web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
 
